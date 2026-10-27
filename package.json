@@ -1,0 +1,14 @@
+{
+  "name": "david-bennett-homepage-preview",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "astro dev --host 127.0.0.1 --port 4398",
+    "build": "astro build",
+    "preview": "astro preview --host 127.0.0.1 --port 4398"
+  },
+  "dependencies": {
+    "astro": "^5.8.0"
+  }
+}
